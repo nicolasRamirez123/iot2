@@ -31,7 +31,7 @@ body {
     line-height: initial;
 }
 .form-control2 {
-    margin-top: 0%;
+    margin-top:35px;
     margin-bottom: 4%;
     margin-left: 20%;
     margin-right: 0%;
@@ -48,10 +48,8 @@ body {
     background-image: url('dog-wallpaper-claws-cute-dog-images-hd-wallpapers-desktop.jpg');
     background-size: cover;
     background-position: center;
-}
-
-.rezise {
-    resize: both;
+    height: 90%;
+    weight: 90%;
 }
 
 .img-2 {
