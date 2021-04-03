@@ -11,7 +11,6 @@
     while($row = mysqli_fetch_array($resultado)){
         $usuar = $row["user"];
         $pass = $row["password"];
-
     }
 
     if($usuar == $usuario && $pass == $password){
